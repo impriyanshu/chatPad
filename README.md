@@ -1,4 +1,4 @@
-# chattingapp
+# chatPad
 
 A new Flutter application.
 
